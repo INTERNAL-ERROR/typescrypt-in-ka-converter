@@ -1,7 +1,7 @@
 
 var tsEls = document.querySelectorAll(".typescript");
 var tsCode;
-for(var c123456789asdfghjkl = 0; c123456789asdfghjkl < tsEls.length; c123456789asdfghjkl++/*Do you understand this easter egg? Tell me if you know in the T&T lol*/){
+for(var cts = 0; cts < tsEls.length; cts++){
     tsEls[c].style.display = "none";
     tsCode = tsEls[c].textContent;
     //alert(tsCode)
